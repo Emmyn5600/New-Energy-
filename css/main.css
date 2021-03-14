@@ -39,3 +39,18 @@ a {
 .social-icons-hero div:hover {
   background-color:#F2F5EA
 }
+
+/* about  */
+
+.about .section-heading {
+  font-size: 2rem;
+}
+
+.section-heading-p1 {
+  font-weight: 700;
+}
+
+.btn-main-1 {
+  background-color: #2C363F;
+  color: #B3DFEC;
+}

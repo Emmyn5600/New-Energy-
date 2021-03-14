@@ -4,3 +4,32 @@ body {
   background-repeat: no-repeat;
   background-size: 100 auto;
 }
+
+/* nav  */
+
+a {
+  color: #2C363F;
+}
+
+.nav-link {
+  font-size: 1.1em;
+  font-weight: 700;
+}
+
+.hero-content {
+  margin-top: 4rem;  
+}
+
+.hero-content h1 {
+  font-weight: 900;
+  font-size: 3rem;
+}
+
+.hero-content h3 {
+  font-weight: 700;
+}
+
+.social-icons-hero div {
+  border: 1px solid #2C363F;
+  border-radius: 40%;
+}

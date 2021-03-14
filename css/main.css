@@ -1,3 +1,6 @@
 body {
   font-family: 'Raleway', sans-serif;
+  background-image: url(../image/main2.jpg);
+  background-repeat: no-repeat;
+  background-size: 100 auto;
 }

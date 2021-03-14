@@ -31,5 +31,6 @@ a {
 
 .social-icons-hero div {
   border: 1px solid #2C363F;
-  border-radius: 40%;
+  border-radius: 50%;
+  /* background-color: #F2F5EA; */
 }

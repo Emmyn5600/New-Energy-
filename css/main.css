@@ -32,5 +32,10 @@ a {
 .social-icons-hero div {
   border: 1px solid #2C363F;
   border-radius: 50%;
+  cursor: pointer;
   /* background-color: #F2F5EA; */
+}
+
+.social-icons-hero div:hover {
+  background-color:#F2F5EA
 }
